@@ -1,0 +1,1 @@
+"""NAYAN SECURITY application package."""
